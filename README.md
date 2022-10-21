@@ -1,1 +1,1 @@
-# Tower-Of-Hanoi-Using-HTML-CSS-and-JS-jQuery-
+# Tower-Of-Hanoi-Using-HTML-CSS-and-JS-jQuery
