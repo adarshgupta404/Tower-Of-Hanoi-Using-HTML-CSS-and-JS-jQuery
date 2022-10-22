@@ -1,11 +1,3 @@
-//TODO:
-  // [ ] solver
-  // [ ] display the minimum number of moves
-  // [x] toggle start and reset button text
-//QUESTIONS:
-  // should I daisy chain my methods, or have them call in sequence?
-  // should I use `this.` or `game.`? I'm assuming that when I get more OOJS about it, `this` would be easier to work with.
-
 var $columns = $('.col');
 var $winningColumns = $('.c2,.c3');
 var $rings;
